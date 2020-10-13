@@ -85,6 +85,7 @@
                 </div>
                 <div class="title m-b-md">
                     test commit
+                    test commit2
                 </div>
 
                 <div class="links">
